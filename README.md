@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sujata Kharat @SujataKharat05
 - 👀 I’m Data Science Student.
-- 🌱 Machine Learning,Deep Learning ,Python.
+- 🌱 Machine Learning,Deep Learning ,Python ,Tableau,SQL.
 - 📫 How to reach me kharatsujata05@gmail.com...
 
 <!---
